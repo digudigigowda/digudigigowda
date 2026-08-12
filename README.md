@@ -1,84 +1,27 @@
-👋 Hey, I'm Diganth!
-🐍 Python Developer | 📊 Data Analytics | 💡 Problem Solver
+<!-- HEADER -->
 
-Turning data into insights and ideas into applications.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=DIGANTH%20GOWDA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/digudigigowda">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+%7C+Data+Analyst;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Ideas+into+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building." />
+  </a>
+</p>
 
-🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=digudigigowda&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
 
-🎓 Computer Science & Engineering student
-🐍 Passionate about Python & Data Analytics
-📊 Working with Power BI, SQL & Pandas
+---
+
+## 👨‍💻 About Me
+
+```text
+🎓 Computer Science & Engineering
+🐍 Python Developer
+📊 Data Analytics Enthusiast
+🗄️ SQL • Power BI • DAX
 ⚡ Exploring PySpark & Data Engineering
-💻 Interested in building practical applications
-🧠 Constantly learning, building and improving
-
-
-🛠️ Tech Stack
-💻 Programming
-
-
-📊 Data & Analytics
-
-
-
-
-🌐 Development
-
-
-
-
-
-🌟 Featured Projects
-🌿 Terra Mysore
-Decentralising tourism in Mysuru
-A platform designed to help tourists discover hidden gems while creating opportunities for local artisans.
-Tech: FlutterFlow • Supabase • OpenStreetMap
-
-🌦️ Professional Weather Application
-A modular Python weather application using APIs, OOP concepts, input handling and persistent data logging.
-Tech: Python • APIs • OOP
-
-📊 Data Analytics Projects
-Exploring real-world datasets to clean, transform, analyse and visualize data.
-Tech: Python • Pandas • SQL • Power BI • DAX
-
-⚡ PySpark Projects
-Working with large datasets and exploring distributed data processing and transformation.
-Tech: PySpark • Python • SQL
-
-📚 Currently Learning
-Advanced SQL       ███████████████░░░
-PySpark            ████████████░░░░░
-Data Engineering   ██████████░░░░░░░
-Power BI & DAX     ██████████████░░░
-
-
-📈 GitHub Stats
-
-  
-  
-
-
-🐍 Contribution Activity
-
-  
-
-
-💭 My Approach
-
-Build → Break → Learn → Improve → Repeat 🔁
-
-
-🤝 Let's Connect
-
-
-
-
-
-
-
-
-
-  Thanks for visiting my profile! ⭐
-
+🚀 Building practical projects
