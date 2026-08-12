@@ -1,27 +1,45 @@
-<!-- HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=DIGANTH%20GOWDA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:164e63,100:0ea5e9&text=DIGANTH%20GOWDA&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analytics+Enthusiast;SQL+%7C+Power+BI+%7C+PySpark;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://github.com/digudigigowda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+%7C+Data+Analyst;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Ideas+into+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building." />
+    <img src="https://komarev.com/ghpvc/?username=digudigigowda&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=digudigigowda&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hey, I'm Diganth
+
+I'm a **Computer Science & Engineering student** who enjoys working with
+**Python, data and real-world applications**.
+
+I like taking an idea, turning it into a project, breaking it,
+learning from it and making it better.
 
 ```text
-🎓 Computer Science & Engineering
-🐍 Python Developer
-📊 Data Analytics Enthusiast
-🗄️ SQL • Power BI • DAX
-⚡ Exploring PySpark & Data Engineering
-🚀 Building practical projects
+        💡 IDEA
+          │
+          ▼
+       🧑‍💻 BUILD
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+       🐛 DEBUG
+          │
+          ▼
+       📈 IMPROVE
+          │
+          ▼
+        🚀 SHIP
