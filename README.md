@@ -1,45 +1,108 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:164e63,100:0ea5e9&text=DIGANTH%20GOWDA&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analytics+Enthusiast;SQL+%7C+Power+BI+%7C+PySpark;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
-</p>
+  
 
-<p align="center">
-  <a href="https://github.com/digudigigowda">
-    <img src="https://komarev.com/ghpvc/?username=digudigigowda&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-  </a>
-</p>
 
----
+  
 
-## 👋 Hey, I'm Diganth
 
-I'm a **Computer Science & Engineering student** who enjoys working with
-**Python, data and real-world applications**.
+👋 Hey, I'm Diganth
+Computer Science & Engineering student interested in Python, Data Analytics and building practical applications.
+I enjoy turning raw data → useful insights and ideas → working projects.
+⚡ What I Do
 
-I like taking an idea, turning it into a project, breaking it,
-learning from it and making it better.
 
-```text
-        💡 IDEA
-          │
-          ▼
-       🧑‍💻 BUILD
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-       🐛 DEBUG
-          │
-          ▼
-       📈 IMPROVE
-          │
-          ▼
-        🚀 SHIP
+
+💻 Development
+📊 Data
+
+
+
+
+Python & Flask
+Pandas & NumPy
+
+
+HTML & CSS
+SQL
+
+
+APIs
+Power BI
+
+
+Supabase
+DAX
+
+
+Application Development
+PySpark
+
+
+
+
+🚀 Featured Projects
+🌿 Terra Mysore
+Decentralising tourism in Mysuru
+A platform that helps tourists discover hidden gems while creating opportunities for local artisans.
+FlutterFlow Supabase OpenStreetMap
+
+🌦️ Professional Weather Application
+A modular Python application using weather APIs, OOP concepts, input handling and persistent data logging.
+Python API OOP
+
+📊 Data Analytics Projects
+Real-world data analysis involving data cleaning, transformation, exploration and visualization.
+Python Pandas SQL Power BI DAX
+
+⚡ PySpark Projects
+Exploring distributed data processing, transformations and analysis of large datasets.
+PySpark Python SQL
+
+🧰 Tools I Work With
+
+  
+
+
+  
+  
+  
+  
+
+
+📈 GitHub Activity
+
+  
+  
+
+
+🧠 Currently Learning
+
+⚡ PySpark   🗄️ Advanced SQL   📊 Power BI
+
+🏗️ Data Engineering   🤖 Machine Learning
+
+
+🎯 My Goal
+
+Keep learning. Keep building. Keep improving.
+
+I'm focused on becoming better at data, development and problem solving by building real projects and continuously learning new technologies.
+
+🤝 Let's Connect
+
+
+
+
+
+
+
+
+
+
+
+  Thanks for visiting! ⭐
+
+
+  
+
