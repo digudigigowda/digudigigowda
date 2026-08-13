@@ -60,9 +60,21 @@ A structured practice repository documenting optimized algorithmic solutions and
 * 🎯 **Focus Areas:** Core Computer Science, Advanced Algorithms in C++, Web Development
 * 📈 **Goal:** Building impactful real-world applications and continuously scaling my problem-solving toolkit.
 <hr />
-<h3>⚡ Activity & Stats</h3>
+<h3>🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digudigigowda&theme=tokyo-night&hide_border=true&v=1" alt="Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
+<h3>🔥 GitHub Streak Counter</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=digudigigowda&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Counter" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=digudigigowda&theme=tokyonight&hide_border=true" alt="GitHub Streak Counter" width="100%" />
+</p>
+
+
+
+
 
