@@ -70,9 +70,6 @@ A structured practice repository documenting optimized algorithmic solutions and
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=digudigigowda&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Counter" width="100%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=digudigigowda&theme=tokyonight&hide_border=true" alt="GitHub Streak Counter" width="100%" />
-</p>
 
 
 
