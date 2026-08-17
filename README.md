@@ -60,11 +60,7 @@ A structured practice repository documenting optimized algorithmic solutions and
 * 🎯 **Focus Areas:** Core Computer Science, Advanced Algorithms in C++, Web Development
 * 📈 **Goal:** Building impactful real-world applications and continuously scaling my problem-solving toolkit.
 <hr />
-<h3>🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
 <h3>🔥 GitHub Streak Counter</h3>
 
 <p align="center">
