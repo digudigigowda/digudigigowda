@@ -36,12 +36,6 @@ Decentralizing tourism in Mysuru by discovering hidden local gems and supporting
 
 ---
 
-#### 💰 Personal Finance Tracker
-An application focused on tracking personal finances, managing expense entries, and budget planning.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
 
 #### 🌦️ Weather Dashboard
 A Python application leveraging live weather APIs, object-oriented design, and persistent data logging.
