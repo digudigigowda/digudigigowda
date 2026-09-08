@@ -1,24 +1,20 @@
 <div align="center">
-  <!-- Neon Cyberpunk Header -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:000000&height=180&section=header&text=DIGANTH%20GOWDA&fontSize=52&fontColor=00F2FE&stroke=00F2FE&strokeWidth=2&animation=fadeIn" width="100%" />
 
   <br />
 
-  <!-- Animated Code Terminal Typing -->
   <a href="https://github.com/digudigigowda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=%3C%2F%3E+Software+%26+AgriTech+Developer;%3C%2F%3E+C%2B%2B+%7C+C+%7C+Python+%7C+Web+Dev;%3C%2F%3E+Building+Smart+Soil+Testing+Kits;%3C%2F%3E+Turning+ideas+into+working+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=%3C%2F%3E+2nd+Yr+CSE+Student+%40+VVCE;%3C%2F%3E+Python+%26+C+Developer;%3C%2F%3E+Building+Smart+Soil+Testing+Kits;%3C%2F%3E+Turning+ideas+into+working+code" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Live Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=digudigigowda&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-812d-d0053b703118.gif" width="100%" />
-
 
 <h3>🚀 Featured Projects</h3>
 
@@ -36,7 +32,6 @@ Decentralizing tourism in Mysuru by discovering hidden local gems and supporting
 
 ---
 
-
 #### 🌦️ Weather Dashboard
 A Python application leveraging live weather APIs, object-oriented design, and persistent data logging.
 
@@ -47,12 +42,16 @@ A Python application leveraging live weather APIs, object-oriented design, and p
 #### 🧩 Data Structures & Algorithms
 A structured practice repository documenting optimized algorithmic solutions and core computing concepts.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-812d-d0053b703118.gif" width="100%" />
-<h3>🧠 Currently Learning & Focus</h3>
-* 🎯 **Focus Areas:** Core Computer Science, Advanced Algorithms in C++, Web Development
-* 📈 **Goal:** Building impactful real-world applications and continuously scaling my problem-solving toolkit.
+
+<h3>🧠 About Me & Current Focus</h3>
+
+* 🎓 **Background:** 2nd-year Computer Science and Engineering student.
+* 💻 **Tech Stack:** Solid foundation in **C** and **Python**, with hands-on experience applying them to real-world software and hardware projects.
+* 🎯 **Current Focus:** Mastering Data Structures & Algorithms, exploring core CS concepts, and scaling up my problem-solving toolkit.
+
 <hr />
 
 <h3>🔥 GitHub Streak Counter</h3>
@@ -60,8 +59,3 @@ A structured practice repository documenting optimized algorithmic solutions and
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=digudigigowda&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Counter" width="100%" />
 </p>
-
-
-
-
-
