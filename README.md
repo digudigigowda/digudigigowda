@@ -39,12 +39,7 @@ A Python application leveraging live weather APIs, object-oriented design, and p
 
 ---
 
-#### 🧩 Data Structures & Algorithms
-A structured practice repository documenting optimized algorithmic solutions and core computing concepts.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-812d-d0053b703118.gif" width="100%" />
 
 <h3>🧠 About Me & Current Focus</h3>
 
