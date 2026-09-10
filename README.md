@@ -11,13 +11,10 @@
   
   <br />
 
-  <!-- Animated GitHub Trophies (Markdown Syntax with Fallback Parameters) -->
-  <p align="center">
-    <a href="https://github.com/digudigigowda">
-      <img src="https://github-profile-trophy.vercel.app/?username=digudigigowda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-    </a>
-  </p>
   
+  
+  <br />
+
   <!-- Live Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=digudigigowda&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
@@ -72,15 +69,15 @@ A Python application leveraging live weather APIs, object-oriented design, and p
 <div align="center">
   <h3>🔥 GitHub Stats & Activity</h3>
   
-  <!-- GitHub Stats (Using resilient public proxy endpoint) -->
+  <!-- GitHub Stats Card using reliable mirror endpoint -->
   <a href="https://github.com/digudigigowda">
-    <img src="https://github-readme-stats.vercel.app/api?username=digudigigowda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=digudigigowda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   
   <br /><br />
   
   <!-- GitHub Streak Counter -->
   <a href="https://github.com/digudigigowda">
-    <img src="https://streak-stats.demolab.com/?user=digudigigowda&theme=tokyonight&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Counter" />
+    <img src="https://streak-stats.demolab.com/?user=digudigigowda&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Counter" />
   </a>
 </div>
