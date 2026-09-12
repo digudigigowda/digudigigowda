@@ -61,9 +61,6 @@ A Python application leveraging live weather APIs, object-oriented design, and p
 <div align="center">
   <h3>🔥 GitHub Stats & Activity</h3>
   
-  <a href="https://github.com/digudigigowda">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=digudigigowda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
   
   <br /><br />
   
