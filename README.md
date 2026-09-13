@@ -61,9 +61,6 @@ A Python application leveraging live weather APIs, object-oriented design, and p
 <div align="center">
   <h3>🔥 GitHub Stats & Activity</h3>
   
-  
-  <br /><br />
-  
   <a href="https://github.com/digudigigowda">
     <img src="https://streak-stats.demolab.com/?user=digudigigowda&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Counter" />
   </a>
